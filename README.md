@@ -1,7 +1,8 @@
 # calculator
 calculator with memory
-Description: It is a typical calculator which has almost all the function which a basic engineering calculator has.              
-            this code uses c functions.
-            It also allocates memory for storing results.
-
-
+This project will be a simple scientific calculator implementation in C Language.
+The various mathematical operations can be performed like sin,cos,log and arithmetic operation.
+This project uses branching statements for every math operations.
+The output of the project will be a console application without any graphics.
+It is a typical calculator quite similar to basic engineering calculator.
+This project is an user-friendly software.
